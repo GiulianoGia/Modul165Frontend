@@ -1,0 +1,12 @@
+[{
+    "points": 0,
+    "fails": 0,
+    "time": 0,
+    "questions:": [
+    {
+      "question": "Das ist eine Frage",
+      "result": "Das ist die Anwort",
+      "selection": ["Antwort1", "Anwort2", "Antwort3", "Antwort4"]
+    }
+  ]
+  }]

@@ -1,0 +1,28 @@
+.home {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    &__title {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+        .title__item {
+            font-size: 40px;
+            padding: 0 0 10px 0;
+            margin: 0;
+        }
+    }
+    &__username {
+        position: absolute;
+        right: 30px;
+        top: 30px;
+        cursor: pointer;
+    }
+    &__question-card {
+        margin-top: 20px;
+    }
+}
